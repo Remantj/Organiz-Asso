@@ -1,0 +1,10 @@
+.listeMessages{
+    display: block;
+    flex-direction: column;
+    overflow-y: scroll;
+    height: 50%;
+    width: 60%;
+    background-color: gray;
+    margin-left: auto;
+    margin-right: auto;
+}
