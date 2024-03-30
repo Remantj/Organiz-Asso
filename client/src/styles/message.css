@@ -1,0 +1,22 @@
+.message{
+    display: flex;
+    flex-direction: column;
+}
+
+.texte{
+    width: 40%;
+    height: auto;
+    background-color: greenyellow;
+    border: 2px solid black;
+    border-radius: 1em;
+}
+
+#auteur{
+    margin-left: 2em;
+    margin-bottom: -0.005em;
+}
+
+#date{
+    margin-top: -0.005em;
+    margin-left: 2em;
+}
